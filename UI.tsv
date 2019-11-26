@@ -221,13 +221,13 @@ UI_20150317_000220	Guilda
 UI_20150317_000221	Lista	
 UI_20150317_000222	Novidades	
 UI_20150317_000223	Missão da Guilda	
-UI_20150317_000224	Integrantes Online	
+UI_20150317_000224	Membros Online	
 UI_20150317_000225	{@st44}Criar Guilda{/}	
 UI_20150317_000226	{@st42}Criar{/}	
 UI_20150317_000227	{@st42}Fechar{/}	
 UI_20150317_000228	{@st42}Tudo{/}	
-UI_20150317_000229	{@st42}Classificações do Dia{/}	
-UI_20150317_000230	{@st42}Classificações da Semana{/}	
+UI_20150317_000229	{@st42}Classificação do Dia{/}	
+UI_20150317_000230	{@st42}Classificação da Semana{/}	
 UI_20150317_000231	{@st56}Classificação {/}	
 UI_20150317_000232	{@st56}Pontos{/}	
 UI_20150317_000233	{@st56}Classe{/}	
@@ -542,7 +542,7 @@ UI_20150317_000541	{@st44}Menu{/}
 UI_20150317_000542	{@st60}Seleção de Personagem{/}	
 UI_20150317_000543	{@st60}Logout{/}	
 UI_20150317_000544	{@st60}Sair do Jogo{/}	
-UI_20150317_000545	{@st60}Configurações do Jogo{/}	
+UI_20150317_000545	{@st60}Configurações{/}	
 UI_20150317_000546	{@st60}Voltar{/}	
 UI_20150317_000547	{@st41}Pular Tutorial{/}	
 UI_20150317_000548	{@st41}Seleção de Personagem{/}	
@@ -613,8 +613,8 @@ UI_20150317_000612	Falta o item solicitado.
 UI_20150317_000613	Slot rápido de Descanso	
 UI_20150317_000614	{@st43}Caixa de diálogo{/}	
 UI_20150317_000615	Nome Temporário	
-UI_20150317_000616	{@st41b} {s18} Espaço de Inventário Insuficiente 	
-UI_20150317_000617	Você não pode obter o item porque o Inventário está cheio{nl}Libere algum espaço para o item.	
+UI_20150317_000616	{@st41b} {s18} Espaço no Inventário Insuficiente 	
+UI_20150317_000617	Você não pode obter o item porque o Inventário está cheio{nl}Libere espaço.	
 UI_20150317_000618	{@st44}Item de Conjunto adquirido!{/}	
 UI_20150317_000619	Selecione um item	
 UI_20150317_000620	{@st59b} Loja {nl} {@st59s} - Clique com o botão direito e insira a quantidade para comprar vários {nl} - Clique duas vezes com o botão direito para vender todo o estoque de itens {/}	
