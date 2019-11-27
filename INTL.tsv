@@ -271,20 +271,20 @@ INTL_20181211_000270	Use para receber uma armadura Primus aleatória Nv 380.	사
 INTL_20181211_000271	Use para receber uma arma/arma secundária Primus aleatória Nv 380.	사용 시 380레벨 프리머스 무기/보조무기 아이템 중 한가지 아이템이 랜덤으로 지급됩니다.				
 INTL_20181229_000272	2018 Leticia's Treasure Chest (Season 4)	2018 레티샤의 보물 상자(시즌4)				
 INTL_20190102_000273	{@st66b}Coleção	{@st66b}컬렉션				
-INTL_20190104_000274	Title given to winners of the New Year's fan art event. Right-click to use.	New Year Artist 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+INTL_20190104_000274	Título entregue aos vencedores do evento the New Year's fan art. Clique com o botão direito para usar.	New Year Artist 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
 INTL_20190112_000275	This item can only be used to change the appearance of another.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.{nl}(This costume was designed by Lunmairetic from [SA] Silute.)	외형 변경 전용 아이템입니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}(This costume is designed by Lunmairetic from Silute Server.)				
-INTL_20190216_000276	PP Shop 100 Points Voucher	포포샵 100 포인트 구매권				
-INTL_20190216_000277	Use to obtain 100 Popo Points.{nl} - Used only during Popo Point Shop event periods.	사용 시 포포샵 100 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
-INTL_20190216_000278	PP Shop 500 Points Voucher	포포샵 500 포인트 구매권				
-INTL_20190216_000279	Use to obtain 500 Popo Points.{nl} - Used only during Popo Point Shop event periods.	사용 시 포포샵 500 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
-INTL_20190216_000280	PP Shop 1,000 Points Voucher	포포샵 1000 포인트 구매권				
-INTL_20190216_000281	Use to obtain 1,000 Popo Points.{nl} - Used only during Popo Point Shop event periods.	사용 시 포포샵 1000 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
-INTL_20190216_000282	HP Potion (1 Day)	HP 포션 (1일)				
-INTL_20190216_000283	Instantly restores 40% of max. HP. {nl}Additionally restores another 40% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.	HP를 40% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 40% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.				
-INTL_20190216_000284	HP Potion (7 Days)	HP 포션 (7일)				
-INTL_20190216_000285	Instantly restores 40% of max. SP. {nl}Additionally restores another 40% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.	SP를 40% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 40% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.				
-INTL_20190216_000286	SP Potion (1 Day)	SP 포션 (1일)				
-INTL_20190216_000287	SP Potion (7 Days)	SP 포션 (7일)				
+INTL_20190216_000276	PP Shop Voucher 100 Pontos	포포샵 100 포인트 구매권				
+INTL_20190216_000277	Use para obter 100 Popo Pontos.{nl} - Deve ser usado durante os períodos do evento Popo Point Shop.	사용 시 포포샵 100 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
+INTL_20190216_000278	PP Shop Voucher 500 Pontos	포포샵 500 포인트 구매권				
+INTL_20190216_000279	Use para obter 500 Popo Pontos.{nl} - Deve ser usado durante os períodos do evento Popo Point Shop.	사용 시 포포샵 500 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
+INTL_20190216_000280	PP Shop Voucher 1,000 Pontos	포포샵 1000 포인트 구매권				
+INTL_20190216_000281	Use para obter 1,000 Popo Pontos.{nl} - Deve ser usado durante os períodos do evento Popo Point Shop.	사용 시 포포샵 1000 포인트가 추가됩니다.{nl} - 최대 포인트가 초과될 경우 사용할 수 없습니다.{nl} - 포포샵 이벤트 기간중에만 사용할 수 있습니다.				
+INTL_20190216_000282	Poção HP (1 Dia)	HP 포션 (1일)				
+INTL_20190216_000283	Restaura instantaneamente 40% do HP. HP. {nl}Efeito adicional: restaura outros 40% do HP a cada 2 segundos durante 11 segundos. {nl}Clique com o botão direito para usar. Tempo de recarga 20 segundos.	HP를 40% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 40% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.				
+INTL_20190216_000284	Poção HP (7 Dias)	HP 포션 (7일)				
+INTL_20190216_000285	Restaura instantaneamente 40% do SP. SP. {nl}Efeito adicional: restaura outros 40% do SP a cada 2 segundos durante 11 segundos. {nl}Clique com o botão direito para usar. Tempo de recarga 20 segundos.	SP를 40% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 40% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.				
+INTL_20190216_000286	Poção SP (1 Dia)	SP 포션 (1일)				
+INTL_20190216_000287	Poção SP (7 Dias)	SP 포션 (7일)				
 INTL_20190216_000288	Recipe - 1 Day HP Potion	제작서 - HP 포션 (1일)				
 INTL_20190216_000289	Recipe - 7 Day HP Potion	제작서 - HP 포션 (7일)				
 INTL_20190216_000290	Recipe - 1 Day SP Potion	제작서 - SP 포션 (1일)				
@@ -322,12 +322,12 @@ INTL_20190405_000321	Você pode receber Cherry Blossom Hairpin para as 5 primeir
 INTL_20190405_000322	Evento - Caminho da Flores	꽃길 이벤트				
 INTL_20190419_000323	Check Speedhack Usage	스피드핵 체크 사용 여부				
 INTL_20190501_000324	Título entregue aos ganhadores do evento Guide Master. Clique com o botão direito do mouse para utilizar.	Guide Master 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
-INTL_20190529_000325	Mystery Cube (Male)	Mystery Cube(남자)				
-INTL_20190529_000326	Mystery Cube (Female)	Mystery Cube(여자)				
-INTL_20190529_000327	Mystery Cube (Male) x10+1	Mystery Cube(남자) x10+1				
-INTL_20190529_000328	Mystery Cube (Female) x10+1	Mystery Cube(여자) x10+1				
+INTL_20190529_000325	Mystery Cube (Masculino)	Mystery Cube(남자)				
+INTL_20190529_000326	Mystery Cube (Feminino)	Mystery Cube(여자)				
+INTL_20190529_000327	Mystery Cube (Masculino) x10+1	Mystery Cube(남자) x10+1				
+INTL_20190529_000328	Mystery Cube (Feminino) x10+1	Mystery Cube(여자) x10+1				
 INTL_20190628_000329	Class Change Voucher Lv. 4 (1 Dia){nl}Stat Reset Potion (1 Dia){nl}Você pode receber 3 por dia durante o período do evento.	클래스 변경권 Lv.4 (1일){nl}스탯 초기화 포션 (1일){nl}이벤트 기간 동안 매일 3개씩 지원해드리고 있습니다.
-INTL_20190715_000330	Título - Meu Amigo Chupacabra	Title - 내친구 츄파카브라
+INTL_20190715_000330	Título - Meu Amigo Chupacabra	Título - 내친구 츄파카브라
 INTL_20190715_000331	Título entregue aos participantes do evento Meu Amigo Chupacabra. Clique com o botão direito do mouse para utilizar.	사막 츄파카브라 성장 시 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.
 INTL_20190715_000332	Obtenha itens especiais durante o período do evento!{nl}Verifique o anúncio para mais detalhes.	이벤트 기간동안 특별한 아이템을 획득할 수 있습니다.{nl}이벤트 배너를 참고해주세요.
 INTL_20190723_000333	Um tipo especial de isca, utilizada para pescaria. Usar esta isca para pescar dá chance de pescar [Evento] Baú de Tesouro Secreto, Peixe Prateado e Pequeno Peixe Prateado.	낚시에 사용하는 특별한 미끼입니다. 미끼로 사용할 경우 [이벤트]연못에 숨겨진 보물 상자, 은빛 물고기, 작은 은빛 물고기를 각기 다른 확률로 획득 할 수 있습니다.
@@ -343,28 +343,28 @@ INTL_20190820_000342	NA	8/15일 하루동안 라떼 캣 헤어 악세사리를 1
 INTL_20190820_000343	NA	추가로 이벤트 기간 아래의 보상을 받을 수 있습니다.{nl}8/14일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/15일:화이트 데이 목걸이 (마법/14일) 1개{nl}8/16일:화이트 데이 팔찌 (마법/14일) 2개{nl}8/17일:화이트 데이 팔찌 (물리/14일) 2개{nl}8/18일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/19일:화이트 데이 팔찌 (물리/14일) 2개
 INTL_20190828_000344	Este item só pode ser usado para alterar a aparência de outro.{nl}Não consome Silver se for utilizado como material de aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.{nl}(Desenhado por Shiseptiana, do [SEA] Telsiai)	외형 변경 전용 아이템입니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}(This costume is designed by Shiseptiana from [SEA] Telsiai.)				
 INTL_20190903_000345	Adiciona um um espaço de personagem no seu Time.	사용시 캐릭터 슬롯이 추가됩니다.
-INTL_20191024_000346	A title given to winners of 2018 Happy New Year Wishes Greetings event.	2018 Happy New Year Wishes Greetings 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000347	A title given to players who have collected the [Event] Revelations.	[이벤트] 계시를 찾은 구원자에게 지급되는 칭호입니다.
-INTL_20191024_000348	A title given to winners of Steam Fan Art event.	스팀 팬아트 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000349	A title given to the most creative TPP players.	Creative TPP Player에게 지급되는 칭호입니다.
-INTL_20191024_000350	A title given to winners of Loving Summer Fan Art event.	Loving Summer 팬아트 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000351	A title given to event participants.	이벤트 참여자에게 지급되는 칭호입니다.
-INTL_20191024_000352	A title given to Game Guide Creators.	Game Guide Creator에게 지급되는 칭호입니다.
-INTL_20191024_000353	A title given to winners of Halloween Fan Art event.	Horror Night 팬아트 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000354	A title given to winners of TOS Weapon Design event.	TOS Weapon Designer 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000355	A title given to winners of New Year's Artist event.	New Year Artist 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000356	A title given to winners of Content Creator event.	Content Creator 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000357	A title given to winners of Happy Anniversary event.	Happy Anniversary 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000358	A title given to winners of Guide Master event.	Guide Master 수상자에게 지급되는 칭호입니다.
-INTL_20191024_000359	[Grimoire Equip Effect] Summons Demon Lord Marnox when using Summoning{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 마르녹스 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000360	[Grimoire Equip Effect] Summons Demon Lord Blut when using Summoning{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 블룻 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000361	[Grimoire Equip Effect] Summons Demon Lord Zaura when using Summoning{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 자우라 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000362	[Grimoire Equip Effect] Summons Demon Lord Nuaele when using Summoning{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 누아엘레 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000363	[Grimoire Equip Effect] Summons Demon Lord Helgasercle when using Summoning{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 헬가 세르클 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000364	[Grimoire Equip Effect] Summons Demon Lord Blut when using Summoning{nl}[Cannot be traded]{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 렉시퍼 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000365	[Grimoire Equip Effect] Summons Demon Lord Mirtis when using Summoning{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 미르티스 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000366	[Grimoire Equip Effect] Summons Demon Lord Froster Lord when using Summoning{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 프로스터 로드 형태의 악마 소환{nl}[거래 불가]
-INTL_20191024_000367	Use to obtain one of the followig items.{nl}- Demon Lord Marnox Card [Cannot be traded] x1{nl}- Demon Lord Blut Card [Cannot be traded] x1{nl}- Demon Lord Zaura Card [Cannot be traded] x1{nl}- Demon Lord Nuaele Card [Cannot be traded] x1{nl}- Demon Lord Helgasercle Card [Cannot be traded] x1{nl}- Demon Lord Rexipher Card [Cannot be traded] x1{nl}- Demon Lord Mirtis Card [Cannot be traded] x1{nl}- Demon Lord Froster Lord Card [Cannot be traded] x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 마군주 마르녹스 카드 [거래 불가] 1개{nl} - 마군주 블룻 카드 [거래 불가] 1개{nl} - 마군주 자우라 카드 [거래 불가] 1개{nl} - 마군주 누아엘레 카드 [거래 불가] 1개{nl} - 마군주 헬가 세르클 카드 [거래 불가] 1개{nl} - 마군주 렉시퍼 카드 [거래 불가] 1개{nl} - 마군주 미르티스 카드 [거래 불가] 1개{nl} - 마군주 프로스터 로드 카드 [거래 불가] 1개
-INTL_20191104_000368	Event: Halloween Uphill Defense	이벤트: 와글와글 할로윈 업힐 디펜스
-INTL_20191104_000369	Event: Halloween Midnight Rumble	이벤트: 할로윈 밤의 소동
+INTL_20191024_000346	Um título dado aos vencedores do evento 2018 Happy New Year Wishes Greetings.	2018 Happy New Year Wishes Greetings 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000347	Um título dado aos jogadores que realizaram [Event] Revelations.	[이벤트] 계시를 찾은 구원자에게 지급되는 칭호입니다.
+INTL_20191024_000348	Um título dado aos vencedores do evento Steam Fan Art.	스팀 팬아트 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000349	Um título dado aos mais creative TPP players.	Creative TPP Player에게 지급되는 칭호입니다.
+INTL_20191024_000350	Um título dado aos vencedores do evento Loving Summer Fan Art.	Loving Summer 팬아트 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000351	Um título dado aos participantes do evento	이벤트 참여자에게 지급되는 칭호입니다.
+INTL_20191024_000352	Um título dado aos Game Guide Creators.	Game Guide Creator에게 지급되는 칭호입니다.
+INTL_20191024_000353	Um título dado aos vencedores do evento Halloween Fan Art.	Horror Night 팬아트 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000354	Um título dado aos vencedores do evento TOS Weapon Design.	TOS Weapon Designer 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000355	Um título dado aos vencedores do evento New Year's Artist.	New Year Artist 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000356	Um título dado aos vencedores do evento Content Creator.	Content Creator 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000357	Um título dado aos vencedores do evento Happy Anniversary.	Happy Anniversary 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000358	Um título dado aos vencedores do evento Guide Master.	Guide Master 수상자에게 지급되는 칭호입니다.
+INTL_20191024_000359	[Grimoire Equip Effect] Invoca Demon Lord Marnox ao usar invocação{nl}[Não pode ser negociado]	[그리모어 장착 효과] 서모닝 사용 시 마군주 마르녹스 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000360	[Grimoire Equip Effect] Invoca Demon Lord Blut ao usar invocação{nl}[Não pode ser negociado]	[그리모어 장착 효과] 서모닝 사용 시 마군주 블룻 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000361	[Grimoire Equip Effect] Invoca Demon Lord Zaura ao usar invocação{nl}[Não pode ser negociado]	[그리모어 장착 효과] 서모닝 사용 시 마군주 자우라 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000362	[Grimoire Equip Effect] Invoca Demon Lord Nuaele ao usar invocação{nl}[Não pode ser negociado]	[그리모어 장착 효과] 서모닝 사용 시 마군주 누아엘레 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000363	[Grimoire Equip Effect] Invoca Demon Lord Helgasercle ao usar invocação{nl}[Não pode ser negociado]	[그리모어 장착 효과] 서모닝 사용 시 마군주 헬가 세르클 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000364	[Grimoire Equip Effect] Invoca Demon Lord Blut ao usar invocação{nl}[Não pode ser negociado]{nl}[Cannot be traded]	[그리모어 장착 효과] 서모닝 사용 시 마군주 렉시퍼 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000365	[Grimoire Equip Effect] Invoca Demon Lord Mirtis ao usar invocação{nl}[Não pode ser negociado]	[그리모어 장착 효과] 서모닝 사용 시 마군주 미르티스 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000366	[Grimoire Equip Effect] Invoca Demon Lord Froster Lord ao usar invocação{nl}[Não pode ser negociado]	[그리모어 장착 효과] 서모닝 사용 시 마군주 프로스터 로드 형태의 악마 소환{nl}[거래 불가]
+INTL_20191024_000367	Use para obter os seguintes itens.{nl}- Demon Lord Marnox Card [Não pode ser negociado] x1{nl}- Demon Lord Blut Card [Não pode ser negociado] x1{nl}- Demon Lord Zaura Card [Não pode ser negociado] x1{nl}- Demon Lord Nuaele Card [Não pode ser negociado] x1{nl}- Demon Lord Helgasercle Card [Não pode ser negociado] x1{nl}- Demon Lord Rexipher Card [Não pode ser negociado] x1{nl}- Demon Lord Mirtis Card [Não pode ser negociado] x1{nl}- Demon Lord Froster Lord Card [Não pode ser negociado] x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 마군주 마르녹스 카드 [거래 불가] 1개{nl} - 마군주 블룻 카드 [거래 불가] 1개{nl} - 마군주 자우라 카드 [거래 불가] 1개{nl} - 마군주 누아엘레 카드 [거래 불가] 1개{nl} - 마군주 헬가 세르클 카드 [거래 불가] 1개{nl} - 마군주 렉시퍼 카드 [거래 불가] 1개{nl} - 마군주 미르티스 카드 [거래 불가] 1개{nl} - 마군주 프로스터 로드 카드 [거래 불가] 1개
+INTL_20191104_000368	Evento: Halloween Uphill Defense	이벤트: 와글와글 할로윈 업힐 디펜스
+INTL_20191104_000369	Evento: Halloween Midnight Rumble	이벤트: 할로윈 밤의 소동
 INTL_20191104_000370	Halloween Midnight Rumble Helper	할로윈 밤의 소동 이벤트 도우미
